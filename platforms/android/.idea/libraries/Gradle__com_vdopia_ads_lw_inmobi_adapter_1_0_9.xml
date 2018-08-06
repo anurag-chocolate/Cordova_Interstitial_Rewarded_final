@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:inmobi-adapter-1.0.9">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/inmobi-adapter/1.0.9/9fcf6124f51822084cf1aa161f2c761a25d05fdd/inmobi-adapter-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

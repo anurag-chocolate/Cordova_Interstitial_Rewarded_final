@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:google-adapter-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/google-adapter/1.1.0/5743fe14981f84423d3cee2f57fd4f9b10c3f66e/google-adapter-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

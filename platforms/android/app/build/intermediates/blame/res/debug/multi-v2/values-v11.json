@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/a1c2b9eaa666fe9b1c095c055e3c0112/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "10",
+                        "endOffsets": "329"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "187",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "461"
+                    }
+                },
+                {
+                    "source": "/Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,187",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "182,312"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,466",
+                        "endLines": "4,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "182,591"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1033 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/9c40d7ef0002810b8d673f3d98c3a4eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:2:1-18:12
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:2:1-52:12
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:2:1-40:12
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:2:1-43:12
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:2:1-50:12
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:2:1-38:12
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:2:1-30:12
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:2:1-30:12
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:2:1-40:12
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:2:1-48:12
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:2:1-66:12
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:2:1-35:12
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:2:1-48:12
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:2:1-52:12
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:2:1-43:12
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:2:1-30:12
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:2:1-31:12
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exomedia-4.0.3.aar/fa3ebcf3b6eb4a4e3acea2a3de653372/AndroidManifest.xml:2:1-14:12
+MERGED from [com.adcolony:sdk:3.3.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/sdk-3.3.5.aar/e194018e13bbdf01f2a599837dd0d871/AndroidManifest.xml:2:1-13:12
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:2:1-22:12
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-4.19.0.aar/42981e802ad67b2966e962aa25cac26a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/c19024cbd36af95fc7b9395b7269bb9c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ba4cc30cdcccb64e13b771fc77c5e269/AndroidManifest.xml:17:1-22:12
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-banner-4.19.0.aar/9ce3752d9e1634f815fb545b712250ff/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-rewardedvideo-4.19.0.aar/bfa3492e0c67acdaea15c1a64eec67f3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-interstitial-4.19.0.aar/e15a1d99b172b1cc2b671abcde2e9981/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-video-4.19.0.aar/6202f601e1a8717bc55fd489baee264e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-static-4.19.0.aar/088c3abe98dd3abf7037a49de6860044/AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-base-4.19.0.aar/8f00b5d3a80b19c1a2d5c0762a02affe/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f785f8922dfad0b988d98d27493c2688/AndroidManifest.xml:17:1-22:12
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:2:1-65:12
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7a934025dc310e0f2e035974d84b3f10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a316d9e567e5b0c0f78769a6d0d31a6a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4917cfab1cd10f84c60da5269911463f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/2bcfdb70b2e15ced51ed00ca68d51f90/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe4d793ab1e9df14f7cadddbefebc816/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/8587ef47a40e58fda7cb61d865ca7f4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/191fe83bf8c182928dd3fdaba52c5e30/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/45f75d75fc9aa6ed4ccce387c1ec9635/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/d2c01bcdeacb3f83a191397a884f5ff5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/55a84bf060fac4c77fa2e8113f530e7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.4.4.aar/f907b9d4370bc490ac931a7600d42dda/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.4.aar/8bb5cd52ed1b4638ca21aba2e615bff4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc7c87162ca747160ec62da6e6166b47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/547b049fee0f2f4b02ca023cd5193e73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c047d151c8e25eefba31b34131c206bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d61f104af885e8530642f59afa15705b/AndroidManifest.xml:17:1-22:12
+MERGED from [net.vrallev.android:cat:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cat-1.0.5.aar/db1c119c680aacdb5f18ebfec1af12a8/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/a1c2b9eaa666fe9b1c095c055e3c0112/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.4.4.aar/ca4432163d3894396db6a5e3361a7030/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.4.4.aar/ad47080d25bdbc2fd17647a6f0a3e19f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.4.aar/ac2a13ead49d439ff6b46387fcf1a7f3/AndroidManifest.xml:17:1-25:12
+MERGED from [:CordovaLib] /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:2:1-16:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aa7ee3abcd2e77089485bcd6b637e6cd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0930d32c70d70a938029a990a7f6bc42/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1c6ef1e4c2dc67789da61e0b1afb2810/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfa8b04afa6f0f595875ca3116db3026/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/1d997c7c6ec69c80c0b917876199d709/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:102-128
+		INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:188-234
+	android:hardwareAccelerated
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:129-187
+	android:versionCode
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+	android:largeScreens
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:18:5-67
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:18:5-67
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:18:5-67
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:18:5-67
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:12:5-67
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:11:5-67
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:11:5-67
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:12:5-67
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:12:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:23:5-67
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:11:5-67
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:19:5-79
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:19:5-79
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:19:5-79
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:19:5-79
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:13:5-79
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:12:5-79
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:12:5-79
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:13:5-79
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:13:5-79
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:11:5-79
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:11:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:12:5-79
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:13:5-79
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:24:5-79
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:12:5-79
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:7:5-75
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:17:5-76
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:17:5-76
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:14:5-76
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:13:5-76
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:7:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:12:5-91
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:12:69-88
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:12:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:13:5-101
+REJECTED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:13:5-81
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:13:79-98
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:14:5-87
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:14:65-84
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:14:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:15:5-89
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:15:67-86
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:15:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:16:5-95
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:16:73-92
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:17:5-92
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:17:70-89
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:17:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:18:5-93
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:18:71-90
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:18:22-70
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:19:5-99
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:19:77-96
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:20:5-101
+	tools:node
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:20:79-98
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:20:22-78
+application
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:21:5-28:19
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:15:5-16:19
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:15:5-16:19
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:28:5-50:19
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:28:5-50:19
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:27:5-38:19
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:27:5-38:19
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:27:5-41:19
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:27:5-41:19
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:21:5-48:19
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:21:5-48:19
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:27:5-36:19
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:27:5-36:19
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:27:5-28:19
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:27:5-28:19
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:27:5-28:19
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:27:5-28:19
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:28:5-38:19
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:28:5-38:19
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:28:5-46:19
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:28:5-46:19
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:22:5-64:19
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:22:5-64:19
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:29:5-33:19
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:29:5-33:19
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:27:5-46:19
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:27:5-46:19
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:27:5-50:19
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:27:5-50:19
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:28:5-41:19
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:28:5-41:19
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:27:5-28:19
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:27:5-28:19
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:15:5-29:19
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:15:5-29:19
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exomedia-4.0.3.aar/fa3ebcf3b6eb4a4e3acea2a3de653372/AndroidManifest.xml:12:5-20
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exomedia-4.0.3.aar/fa3ebcf3b6eb4a4e3acea2a3de653372/AndroidManifest.xml:12:5-20
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:16:5-20:19
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:16:5-20:19
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-4.19.0.aar/42981e802ad67b2966e962aa25cac26a/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-4.19.0.aar/42981e802ad67b2966e962aa25cac26a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:14:5-18:19
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:14:5-18:19
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:26:5-20
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-banner-4.19.0.aar/9ce3752d9e1634f815fb545b712250ff/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-banner-4.19.0.aar/9ce3752d9e1634f815fb545b712250ff/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-rewardedvideo-4.19.0.aar/bfa3492e0c67acdaea15c1a64eec67f3/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-rewardedvideo-4.19.0.aar/bfa3492e0c67acdaea15c1a64eec67f3/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-interstitial-4.19.0.aar/e15a1d99b172b1cc2b671abcde2e9981/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-interstitial-4.19.0.aar/e15a1d99b172b1cc2b671abcde2e9981/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-video-4.19.0.aar/6202f601e1a8717bc55fd489baee264e/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-video-4.19.0.aar/6202f601e1a8717bc55fd489baee264e/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-static-4.19.0.aar/088c3abe98dd3abf7037a49de6860044/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-static-4.19.0.aar/088c3abe98dd3abf7037a49de6860044/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-base-4.19.0.aar/8f00b5d3a80b19c1a2d5c0762a02affe/AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-base-4.19.0.aar/8f00b5d3a80b19c1a2d5c0762a02affe/AndroidManifest.xml:11:5-20
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:16:5-63:19
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:16:5-63:19
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7a934025dc310e0f2e035974d84b3f10/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7a934025dc310e0f2e035974d84b3f10/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a316d9e567e5b0c0f78769a6d0d31a6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a316d9e567e5b0c0f78769a6d0d31a6a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4917cfab1cd10f84c60da5269911463f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4917cfab1cd10f84c60da5269911463f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/2bcfdb70b2e15ced51ed00ca68d51f90/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/2bcfdb70b2e15ced51ed00ca68d51f90/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:22:5-26:19
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:14:5-53
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:14:5-53
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/1d997c7c6ec69c80c0b917876199d709/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/1d997c7c6ec69c80c0b917876199d709/AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:21:114-140
+	android:label
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:21:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:21:18-52
+	tools:ignore
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:16:18-44
+	android:allowBackup
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:21:53-80
+activity#com.anurag.hello.MainActivity
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:9-27:20
+	android:label
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:97-134
+	android:launchMode
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:257-299
+	android:configChanges
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:19-96
+	android:theme
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:194-256
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:22:166-193
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:23:13-26:29
+	android:label
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:23:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:25:27-74
+uses-sdk
+ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:29:5-74
+MERGED from [com.android.support:multidex:1.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/9c40d7ef0002810b8d673f3d98c3a4eb/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/9c40d7ef0002810b8d673f3d98c3a4eb/AndroidManifest.xml:20:5-43
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:cordova-plugin:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:facebook-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:google-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/google-adapter-1.1.0.aar/424d3484e2bb2d93ed069653f40ab31b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vdopia.ads.lw:yahoo-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:8:5-11:142
+MERGED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:8:5-11:142
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exomedia-4.0.3.aar/fa3ebcf3b6eb4a4e3acea2a3de653372/AndroidManifest.xml:8:5-10:41
+MERGED from [com.devbrackets.android:exomedia:4.0.3] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exomedia-4.0.3.aar/fa3ebcf3b6eb4a4e3acea2a3de653372/AndroidManifest.xml:8:5-10:41
+MERGED from [com.adcolony:sdk:3.3.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/sdk-3.3.5.aar/e194018e13bbdf01f2a599837dd0d871/AndroidManifest.xml:8:5-11:939
+MERGED from [com.adcolony:sdk:3.3.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/sdk-3.3.5.aar/e194018e13bbdf01f2a599837dd0d871/AndroidManifest.xml:8:5-11:939
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-4.19.0.aar/42981e802ad67b2966e962aa25cac26a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-4.19.0.aar/42981e802ad67b2966e962aa25cac26a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/c19024cbd36af95fc7b9395b7269bb9c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/c19024cbd36af95fc7b9395b7269bb9c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ba4cc30cdcccb64e13b771fc77c5e269/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ba4cc30cdcccb64e13b771fc77c5e269/AndroidManifest.xml:20:5-44
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-banner-4.19.0.aar/9ce3752d9e1634f815fb545b712250ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-banner:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-banner-4.19.0.aar/9ce3752d9e1634f815fb545b712250ff/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-rewardedvideo-4.19.0.aar/bfa3492e0c67acdaea15c1a64eec67f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-rewardedvideo-4.19.0.aar/bfa3492e0c67acdaea15c1a64eec67f3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-interstitial-4.19.0.aar/e15a1d99b172b1cc2b671abcde2e9981/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-interstitial:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-interstitial-4.19.0.aar/e15a1d99b172b1cc2b671abcde2e9981/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-video-4.19.0.aar/6202f601e1a8717bc55fd489baee264e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-video:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-video-4.19.0.aar/6202f601e1a8717bc55fd489baee264e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-static-4.19.0.aar/088c3abe98dd3abf7037a49de6860044/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-static:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-native-static-4.19.0.aar/088c3abe98dd3abf7037a49de6860044/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-base-4.19.0.aar/8f00b5d3a80b19c1a2d5c0762a02affe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-base:4.19.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-sdk-base-4.19.0.aar/8f00b5d3a80b19c1a2d5c0762a02affe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f785f8922dfad0b988d98d27493c2688/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f785f8922dfad0b988d98d27493c2688/AndroidManifest.xml:20:5-44
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7a934025dc310e0f2e035974d84b3f10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/7a934025dc310e0f2e035974d84b3f10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a316d9e567e5b0c0f78769a6d0d31a6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a316d9e567e5b0c0f78769a6d0d31a6a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4917cfab1cd10f84c60da5269911463f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/4917cfab1cd10f84c60da5269911463f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/2bcfdb70b2e15ced51ed00ca68d51f90/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/2bcfdb70b2e15ced51ed00ca68d51f90/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe4d793ab1e9df14f7cadddbefebc816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/fe4d793ab1e9df14f7cadddbefebc816/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/8587ef47a40e58fda7cb61d865ca7f4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/8587ef47a40e58fda7cb61d865ca7f4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/191fe83bf8c182928dd3fdaba52c5e30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/191fe83bf8c182928dd3fdaba52c5e30/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/45f75d75fc9aa6ed4ccce387c1ec9635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/45f75d75fc9aa6ed4ccce387c1ec9635/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/d2c01bcdeacb3f83a191397a884f5ff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/d2c01bcdeacb3f83a191397a884f5ff5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/55a84bf060fac4c77fa2e8113f530e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/55a84bf060fac4c77fa2e8113f530e7e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.4.4.aar/f907b9d4370bc490ac931a7600d42dda/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-r2.4.4.aar/f907b9d4370bc490ac931a7600d42dda/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.4.aar/8bb5cd52ed1b4638ca21aba2e615bff4/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.4.aar/8bb5cd52ed1b4638ca21aba2e615bff4/AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc7c87162ca747160ec62da6e6166b47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc7c87162ca747160ec62da6e6166b47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/547b049fee0f2f4b02ca023cd5193e73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/547b049fee0f2f4b02ca023cd5193e73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c047d151c8e25eefba31b34131c206bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c047d151c8e25eefba31b34131c206bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d61f104af885e8530642f59afa15705b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d61f104af885e8530642f59afa15705b/AndroidManifest.xml:20:5-44
+MERGED from [net.vrallev.android:cat:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cat-1.0.5.aar/db1c119c680aacdb5f18ebfec1af12a8/AndroidManifest.xml:7:5-9:41
+MERGED from [net.vrallev.android:cat:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/cat-1.0.5.aar/db1c119c680aacdb5f18ebfec1af12a8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/a1c2b9eaa666fe9b1c095c055e3c0112/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-r2.4.4.aar/a1c2b9eaa666fe9b1c095c055e3c0112/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.4.4.aar/ca4432163d3894396db6a5e3361a7030/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-r2.4.4.aar/ca4432163d3894396db6a5e3361a7030/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.4.4.aar/ad47080d25bdbc2fd17647a6f0a3e19f/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-r2.4.4.aar/ad47080d25bdbc2fd17647a6f0a3e19f/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.4.aar/ac2a13ead49d439ff6b46387fcf1a7f3/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.4] /Users/anurag/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.4.aar/ac2a13ead49d439ff6b46387fcf1a7f3/AndroidManifest.xml:21:5-23:41
+MERGED from [:CordovaLib] /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tonyodev.fetch:fetch:1.1.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/fetch-1.1.5.aar/dde50110efed42a10df6f7f5a4741ff4/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aa7ee3abcd2e77089485bcd6b637e6cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/aa7ee3abcd2e77089485bcd6b637e6cd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0930d32c70d70a938029a990a7f6bc42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0930d32c70d70a938029a990a7f6bc42/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1c6ef1e4c2dc67789da61e0b1afb2810/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1c6ef1e4c2dc67789da61e0b1afb2810/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfa8b04afa6f0f595875ca3116db3026/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bfa8b04afa6f0f595875ca3116db3026/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/1d997c7c6ec69c80c0b917876199d709/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/1d997c7c6ec69c80c0b917876199d709/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:11:9-139
+	android:targetSdkVersion
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:29:42-71
+	android:minSdkVersion
+		ADDED from /Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/src/main/AndroidManifest.xml:29:15-41
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:14:5-81
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:14:5-81
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:14:22-78
+activity#com.vdopia.ads.lw.LVDOAdActivity
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:31:9-34:75
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:33:13-122
+	android:theme
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:32:13-60
+activity#com.vdopia.ads.lw.mraid.VDOBrowserActivity
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:35:9-37:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:37:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:36:13-70
+service#com.vdopia.ads.lw.ChocolateJobIntentService
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:39:9-41:72
+	android:permission
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:41:13-69
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:40:13-71
+receiver#com.vdopia.ads.lw.BootCompleteReceiver
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:43:19-72
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:44:13-48:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:45:25-76
+category#android.intent.category.DEFAULT
+ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:47:17-76
+	android:name
+		ADDED from [com.vdopia.ads.lw:coresdk:2.5.5.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/AndroidManifest.xml:47:27-73
+activity#com.adcolony.sdk.AdColonyInterstitialActivity
+ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:30:9-33:50
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:33:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:32:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:31:13-73
+activity#com.adcolony.sdk.AdColonyAdViewActivity
+ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:34:9-37:50
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:37:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:36:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:adcolony-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/adcolony-adapter-1.0.8.aar/fcd4e4c76f5d534cfd51bc151663768d/AndroidManifest.xml:35:13-67
+activity#com.applovin.adview.AppLovinInterstitialActivity
+ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:30:9-32:62
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:31:13-76
+activity#com.applovin.adview.AppLovinConfirmationActivity
+ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:33:9-35:62
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:34:13-76
+meta-data#applovin.sdk.key
+ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:38:9-40:118
+	android:value
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:40:13-115
+	android:name
+		ADDED from [com.vdopia.ads.lw:applovin-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/AndroidManifest.xml:39:13-44
+activity#com.duapps.ad.video.VideoFullScreenActivity
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:22:9-26:54
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:25:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:24:13-122
+	android:theme
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:26:13-51
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:23:13-71
+receiver#com.duapps.ad.video.NetworkStateReceiver
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:28:19-74
+intent-filter#action:name:android.NET.conn.CONNECTIVITY_CHANGE+action:name:android.Net.wifi.WIFI_STATE_CHANGED+action:name:android.net.wifi.STATE_CHANGE
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:29:13-33:29
+action#android.NET.conn.CONNECTIVITY_CHANGE
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:30:25-76
+action#android.Net.wifi.WIFI_STATE_CHANGED
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:31:25-75
+action#android.net.wifi.STATE_CHANGE
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:32:17-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:32:25-69
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:36:9-39:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/7fcad2cb5e68bd0f1f2a11e7b766a56b/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:38:13-122
+	android:theme
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:39:13-61
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:37:13-65
+receiver#com.duapps.ad.base.PackageAddReceiver
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:41:9-47:20
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:41:19-71
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+data:scheme:package
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:42:13-46:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:43:25-75
+data
+ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:45:17-50
+	android:scheme
+		ADDED from [com.vdopia.ads.lw:baidu-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/AndroidManifest.xml:45:23-47
+activity#com.chartboost.sdk.CBImpressionActivity
+ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:30:9-35:86
+	android:excludeFromRecents
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:33:13-46
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:34:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:32:13-106
+	android:theme
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:35:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:chartboost-adapter:1.0.8] /Users/anurag/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/AndroidManifest.xml:31:13-67
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:31:9-37:46
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:34:13-47
+	android:resizeableActivity
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:35:13-47
+	tools:ignore
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:37:13-43
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:33:13-115
+	android:theme
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:36:13-60
+	android:name
+		ADDED from [com.vdopia.ads.lw:inmobi-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/inmobi-adapter-1.0.9.aar/5519effc71b5260a1c780d8389359993/AndroidManifest.xml:32:13-65
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:31:9-33:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:33:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:32:13-61
+activity#com.mopub.mobileads.MraidActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:34:9-36:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:36:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:35:13-61
+activity#com.mopub.common.MoPubBrowser
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:37:9-39:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:39:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:38:13-57
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:40:9-42:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:42:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:41:13-72
+activity#com.mopub.mobileads.RewardedMraidActivity
+ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:43:9-45:125
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:45:13-122
+	android:name
+		ADDED from [com.vdopia.ads.lw:mopub-adapter:1.0.9] /Users/anurag/.gradle/caches/transforms-1/files-1.1/mopub-adapter-1.0.9.aar/f59ad3eeba867a9aa4c61ab0cf173682/AndroidManifest.xml:44:13-69
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:20:22-75
+service#io.presage.PSD
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:23:9-27:19
+	android:enabled
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:25:13-35
+	android:exported
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:24:13-42
+activity#io.presage.EulaActivity
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:29:9-32:75
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:31:13-83
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:30:13-51
+receiver#io.presage.receiver.AlarmReceiver
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:34:9-70
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:34:19-67
+receiver#io.presage.common.profig.schedule.ProfigAlarmReceiver
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:35:9-90
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:35:19-87
+service#io.presage.common.profig.schedule.ProfigSyncIntentService
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:38:13-85
+service#io.presage.common.profig.schedule.ProfigJobService
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:40:9-43:72
+	android:exported
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:41:13-78
+activity#io.presage.interstitial.InterstitialActivity
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:45:9-48:67
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:47:13-59
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:48:13-64
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:46:13-72
+activity#io.presage.interstitial.InterstitialAndroid8TransparentActivity
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:49:9-52:67
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:51:13-59
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:52:13-64
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:50:13-91
+activity#io.presage.interstitial.InterstitialAndroid8RotableActivity
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:53:9-56:55
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:55:13-59
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:56:13-52
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:54:13-87
+activity#io.presage.mraid.browser.ShortcutActivity
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:57:9-63:20
+	android:theme
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:59:13-52
+	android:name
+		ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:58:13-69
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from [com.vdopia.ads.lw:ogury-adapter:1.0.5] /Users/anurag/.gradle/caches/transforms-1/files-1.1/ogury-adapter-1.0.5.aar/3a7d8dea4e6c733b28d967c461a5edfa/AndroidManifest.xml:60:13-62:29
+activity#com.youappi.ai.sdk.AdActivity
+ADDED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:30:9-32:62
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:32:13-59
+	android:name
+		ADDED from [com.vdopia.ads.lw:youappi-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-adapter-1.0.6.aar/9682dfdb63f007bfc1520242bca5c04b/AndroidManifest.xml:31:13-57
+activity#com.tapjoy.TJAdUnitActivity
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:30:9-34:86
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:33:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:32:13-74
+	android:theme
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:34:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:31:13-55
+activity#com.tapjoy.TJContentActivity
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:35:9-39:75
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:38:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:37:13-74
+	android:theme
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:39:13-72
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:36:13-56
+activity#com.tapjoy.mraid.view.ActionHandler
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:40:9-42:77
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:42:13-74
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:41:13-63
+activity#com.tapjoy.mraid.view.Browser
+ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:43:9-45:77
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from [com.vdopia.ads.lw:tapjoy-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/AndroidManifest.xml:44:13-57
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:33:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:31:13-65
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:35:9-39:86
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:38:13-47
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:37:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:39:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:36:13-76
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:40:9-44:86
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:43:13-48
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:42:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:44:13-83
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:41:13-84
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:45:9-49:74
+	android:hardwareAccelerated
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:48:13-48
+	android:configChanges
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:47:13-170
+	android:theme
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:49:13-71
+	android:name
+		ADDED from [com.vdopia.ads.lw:unity-adapter:1.1.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/AndroidManifest.xml:46:13-73
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:31:9-40:19
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:50:9-58:19
+MERGED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:50:9-58:19
+	android:enabled
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:33:13-35
+		REJECTED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:52:13-36
+	android:exported
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:35:13-93
+	tools:replace
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:32:13-75
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:37:13-39:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:38:17-87
+	android:name
+		ADDED from [com.vdopia.ads.lw:vungle-adapter:1.0.6] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-adapter-1.0.6.aar/80c3a88545f1ef06b5484e8d31f173e8/AndroidManifest.xml:38:25-84
+activity#com.vungle.warren.ui.VungleActivity
+ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:19:9-23:74
+	android:launchMode
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:22:13-43
+	android:configChanges
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:21:13-106
+	android:theme
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:23:13-71
+	android:name
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:20:13-63
+activity#com.vungle.warren.ui.VungleFlexViewActivity
+ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:24:9-28:75
+	android:launchMode
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:27:13-43
+	android:configChanges
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:26:13-106
+	android:theme
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:28:13-72
+	android:name
+		ADDED from [com.github.vungle:vungle-android-sdk:6.2.15] /Users/anurag/.gradle/caches/transforms-1/files-1.1/vungle-android-sdk-6.2.15.aar/2659285871c57c53fc034aac11e5ffe2/AndroidManifest.xml:25:13-71
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:14:22-77
+activity#com.youappi.sdk.AdActivity
+ADDED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:17:9-19:62
+	android:configChanges
+		ADDED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:19:13-59
+	android:name
+		ADDED from [com.youappi.sdk:youappi-sdk-android-moat:4.2.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/AndroidManifest.xml:18:13-54
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:4.99.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-4.99.1.aar/dc62f8b4ad3b3e511dfe51821f053de1/AndroidManifest.xml:16:13-68
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-iid-15.0.1.aar/664e360cf814bf963a8c41bdbfaca987/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-gcm-15.0.1.aar/78d359323026ffe58be046766d6c4f0c/AndroidManifest.xml:23:22-79
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:12:22-65
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:18:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:21:9-24:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:22:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:26:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:29:9-38:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.evernote.android.job.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:32:13-37:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:35:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:36:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:40:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:42:13-47:29
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:44:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:45:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:46:25-81
+service#com.evernote.android.job.JobRescheduleService
+ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:59:9-62:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:61:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.0] /Users/anurag/.gradle/caches/transforms-1/files-1.1/android-job-1.2.0.aar/b22ce570858ecb739f3d82dea1ce1936/AndroidManifest.xml:60:13-73
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/6856f4d85feaf43fa7f6f6ab7078bd67/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/anurag/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/c0ff281b8fb5c6c8bf520d1eabb4ac01/AndroidManifest.xml:24:13-58

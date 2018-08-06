@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:unity-adapter-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/unity-adapter-1.1.0.aar/131ca464d44a2d29738687a5fb065146/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/unity-adapter/1.1.0/77689b11b04d5eaae8ffc37a76e8f3e9896c413f/unity-adapter-1.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

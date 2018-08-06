@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:applovin-adapter-1.0.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/applovin-adapter-1.0.9.aar/40901ac48c06bb4d083f4393b818d331/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/applovin-adapter/1.0.9/56a74df8a703ac14475e2fdd25501f042fe9c0d3/applovin-adapter-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

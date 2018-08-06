@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:facebook-adapter-1.0.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/facebook-adapter-1.0.6.aar/89de82a9261afc9c6b88ee598416e538/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/facebook-adapter/1.0.6/4c0dcd671769ac8fbdaf0b14e0de3ca466da9c57/facebook-adapter-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

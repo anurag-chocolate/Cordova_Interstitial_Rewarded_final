@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:chartboost-adapter-1.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/chartboost-adapter-1.0.8.aar/fb31bd7ce0927af2908c77c95a2c8d35/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/chartboost-adapter/1.0.8/a6ae2a70fe6d457767102618ed753d4b6497f979/chartboost-adapter-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

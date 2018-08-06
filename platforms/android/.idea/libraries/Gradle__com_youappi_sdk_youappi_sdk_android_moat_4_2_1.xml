@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.youappi.sdk:youappi-sdk-android-moat-4.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/youappi-sdk-android-moat-4.2.1.aar/0a31b7ed29049f85eb39582ff68326cc/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

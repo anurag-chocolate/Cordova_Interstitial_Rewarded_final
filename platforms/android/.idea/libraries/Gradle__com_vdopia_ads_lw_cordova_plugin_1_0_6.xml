@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:cordova-plugin-1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cordova-plugin-1.0.6.aar/a21854a509ae7185f186f04af6cc6e15/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/cordova-plugin/1.0.6/66d2ee1ec5ac6e75e3e0d01ba0a02175544a0919/cordova-plugin-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

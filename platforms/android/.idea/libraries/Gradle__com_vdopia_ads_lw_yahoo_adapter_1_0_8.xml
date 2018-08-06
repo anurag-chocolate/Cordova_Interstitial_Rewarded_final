@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:yahoo-adapter-1.0.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/yahoo-adapter-1.0.8.aar/21db2fd803165cfefda84917d01d02d6/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/yahoo-adapter/1.0.8/9df4e82d4289dcdea940227463ff24565679fb38/yahoo-adapter-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

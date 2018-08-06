@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:tapjoy-adapter-1.0.6">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tapjoy-adapter-1.0.6.aar/0683f65bf65f481b4f245c46f3a962e4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/tapjoy-adapter/1.0.6/1ae17780b1a3b54a7e50afbbbc7860e94f2e68fe/tapjoy-adapter-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.vdopia.ads.lw:coresdk-2.5.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/coresdk-2.5.5.1.aar/92af946b31ae0837f0e642ec3e4d1091/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vdopia.ads.lw/coresdk/2.5.5.1/afeda9a1ffb778e26e733889fc920163c0b0da8/coresdk-2.5.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

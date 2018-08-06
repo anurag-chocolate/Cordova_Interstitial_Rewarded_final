@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/anurag/Downloads/cordova_Final_app/CordovaFinalApp/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/Users/anurag/.gradle/caches/transforms-1/files-1.1/baidu-adapter-1.0.6.aar/8f6f7d21908b1bb4e3902ff6c4cbc4d4/res/values-v14/values-v14.xml",
+                    "from": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,206",
+                        "endLines": "4,7",
+                        "endColumns": "12,12",
+                        "endOffsets": "201,359"
+                    }
+                }
+            ]
+        }
+    ]
+}
